@@ -5,8 +5,8 @@ Most of the code is taken from [this repository](https://bitbucket.org/matserale
 
 # Build
 
-Will be added soon
+Will be added soon.
 
 # Tests
 
-Will be added soon
+Will be added soon.
